@@ -1,5 +1,5 @@
 {
-  "name": "vscode",
+  "name": "notes-typescript",
   "region": "ca-central-1",
   "main": "stacks/index.ts"
 }
